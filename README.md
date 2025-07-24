@@ -4,14 +4,39 @@ Expense Tracker is a clean and user-friendly web application that helps users mo
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-* 💰 Add, edit, and delete income and expenses
-* 📊 Real-time expense visualization with charts
-* 📄 Download transaction history as CSV/PDF
-* 🔍 Filter transactions by date and category
-* 🔐 Secure backend with environment variables
-* 🧱 Scalable and modular codebase with React + Express
+🔐 User Authentication
+Secure login and registration functionalities.
+
+📊 Dashboard Overview
+At-a-glance view of total balance, income, and expenses.
+
+💵 Transaction Tracking
+Easily add, edit, and manage both income and expense entries.
+
+📁 Categorization
+
+Expenses: Groceries, Gym, Food, Travel, etc.
+Income: Salary, Trading, Gaming, etc.
+📈 Visual Data Representation
+
+Income Overview (Bar Chart)
+Last 30 Days Expenses (Bar Chart)
+Financial Overview (Donut Chart: Balance, Expenses, Income)
+Last 60 Days Income (Donut Chart)
+Expense Trend (Line Graph)
+📜 Transaction History
+View detailed lists of all recent income and expense transactions.
+
+📤 Data Export
+Download income and expense data as .xlsx Excel files.
+
+🧼 Intuitive UI
+Clean and responsive interface designed using Tailwind CSS.
+
+🗑️ Delete Functionality
+Delete specific income or expense entries with ease.
 
 ---
 
