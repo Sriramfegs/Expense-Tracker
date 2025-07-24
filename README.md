@@ -41,15 +41,15 @@ expense-tracker/
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/17a4dd08-c220-4314-904f-b4afad3ca25e" />
+  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/17a4dd08-c220-4314-904f-b4afad3ca25e" />
 
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7a2eb24e-7dd5-4f7c-8426-de28ca710496" />
+  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/7a2eb24e-7dd5-4f7c-8426-de28ca710496" />
 
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a52ac421-ffa0-417e-b182-6d0ebf99cf96" />
+  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/a52ac421-ffa0-417e-b182-6d0ebf99cf96" />
 
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d6dd5f87-ab6f-4f23-b188-760d14a8bf49" />
+  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/d6dd5f87-ab6f-4f23-b188-760d14a8bf49" />
 
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/23b2ec8b-f637-485f-943f-cf0605603cc1" />
+  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/23b2ec8b-f637-485f-943f-cf0605603cc1" />
 
 
 </p>
